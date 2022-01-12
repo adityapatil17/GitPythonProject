@@ -1,0 +1,16 @@
+Index: Adding__gitignore_file.patch
+===================================================================
+diff --git a/Adding__gitignore_file.patch b/Adding__gitignore_file.patch
+deleted file mode 100644
+--- a/Adding__gitignore_file.patch	(revision 319d5ff08277113e83d857b997b64960140f67e3)
++++ /dev/null	(revision 319d5ff08277113e83d857b997b64960140f67e3)
+@@ -1,9 +0,0 @@
+-diff --git a/main.py b/main.py
+-new file mode 100644
+-diff --git a/README b/README
+-new file mode 100644
+-index 0000000000000000000000000000000000000000..e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+-GIT binary patch
+-literal 0
+-Hc$@<O00001
+-
